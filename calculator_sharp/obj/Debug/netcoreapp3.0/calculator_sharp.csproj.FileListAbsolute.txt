@@ -1,0 +1,11 @@
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.exe
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.deps.json
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.runtimeconfig.json
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.runtimeconfig.dev.json
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.dll
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\bin\Debug\netcoreapp3.0\calculator_sharp.pdb
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\obj\Debug\netcoreapp3.0\calculator_sharp.csprojAssemblyReference.cache
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\obj\Debug\netcoreapp3.0\calculator_sharp.AssemblyInfoInputs.cache
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\obj\Debug\netcoreapp3.0\calculator_sharp.AssemblyInfo.cs
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\obj\Debug\netcoreapp3.0\calculator_sharp.dll
+C:\Users\Vlad-PC\source\repos\calculator_sharp\calculator_sharp\obj\Debug\netcoreapp3.0\calculator_sharp.pdb
